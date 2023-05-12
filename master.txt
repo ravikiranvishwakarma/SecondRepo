@@ -1,4 +1,4 @@
 Here what i have done is created a repo in git hub,
 cloned that repo using ssh,
-and created a new file in client and now pushing that
+And created a new file in client and now pushing that
 file to server.
